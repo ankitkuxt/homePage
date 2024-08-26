@@ -1,7 +1,6 @@
 import React from 'react'
 import { SiPayloadcms } from "react-icons/si";
-// import { ButtonLogout } from './ButtonLogout'
-// import { ButtonSignin } from '.ButtonSignin'
+
 
 
  

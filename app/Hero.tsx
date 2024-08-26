@@ -1,7 +1,4 @@
-import Image from "next/image";
-import { FaRegSmileBeam } from "react-icons/fa";
-import { BsFillHouseCheckFill } from "react-icons/bs";
-import { IoMdGlobe } from "react-icons/io";
+
 import { FaArrowRight } from "react-icons/fa";
 
 export default function Hero() {
