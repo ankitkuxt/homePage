@@ -17,9 +17,9 @@ export default function Hero() {
     
   return (
       <div className="flex justify-center items-center">
-            <div className="flex flex-col h-[550px] w-[1400px] text-black font-serif backdrop-blur-md rounded-3xl">
-                    <p className= {`${orbitron.variable} font-sans text-white text-[60px] px-4 py-4`}>Welcome to Bill Buddies !!</p>
-                    <p className={` ${gruppo.variable} font-serif px-6 text-white text-[20px] py-5`}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+            <div className="flex flex-col h-[550px] w-[1400px] text-black font-serif backdrop-blur-sm rounded-3xl">
+                    <p className= {`${orbitron.variable} font-sans flex justify-center items-center mt-5  text-white text-[55px] px-4 py-4`}>Welcome to Bill Buddies !!</p>
+                    <p className={` ${gruppo.variable} font-serif flex justify-center text-center px-6 text-white text-[20px] py-5`}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                         Ex, placeat praesentium odio itaque ipsam, dolorum sed
                         repellendus tenetur recusandae iste asperiores soluta 
                         sequi tempora non sunt, hic modi consequuntur reprehenderit.
